@@ -15,7 +15,7 @@ li {
     font-size: large;
     color: #003049;
     font-family:'Consolas', Courier, monospace;
-    text-align:center;
+    text-align:left;
     list-style-position:inside;
 }
 
